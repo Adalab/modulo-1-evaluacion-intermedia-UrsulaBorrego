@@ -19,17 +19,18 @@
     padding-bottom: 10px;
 }
 .menu {
+    
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding-top: 10px;
-    padding-bottom: 13px;
 }
 .menu-item{
     width: 100%;
     font-size: 16px;
     font-weight: 400;
     word-spacing: 20px;
+    padding-top: 10px;
+    padding-bottom: 13px;
 }
 .menu-item a {
     font-family: 'Rubik', sans-serif;
