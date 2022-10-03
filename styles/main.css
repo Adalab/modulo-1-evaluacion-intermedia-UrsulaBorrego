@@ -19,7 +19,6 @@
     padding-bottom: 10px;
 }
 .menu {
-    
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -43,10 +42,11 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    text-align: center;
 }
 .h1 {
     color:#FFFFFF;
     font-size: 30px;
     font-weight: 700;
+
 }
